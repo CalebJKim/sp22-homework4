@@ -3,8 +3,7 @@ import './styles/Game.css';
 import Board from "./Board";
 
 function Game() {
-    
-    return (
+        return (
         <div className="game">
             <div className="game-board">
                 <Board />
